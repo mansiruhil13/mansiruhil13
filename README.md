@@ -1,11 +1,9 @@
-[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Mansi Ruhil</h1>
 <h3 align="center">Computer Science Student</h3>
 <img align="right" alt="coding" width="400" src="https://tenor.com/view/computer-work-online-gif-14640055">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansiruhil13&label=Profile%20views&color=0e75b6&style=flat" alt="mansiruhil13" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansiruhil13" alt="mansiruhil13" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/byteelif" target="blank"><img src="https://img.shields.io/twitter/follow/byteelif?logo=twitter&style=for-the-badge" alt="byteelif" /></a> </p>
 
