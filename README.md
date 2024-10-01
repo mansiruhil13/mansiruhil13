@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bobble AI - Ambulance Monitoring System**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA in C++**
 
 - 📫 How to reach me **mansiruhil99@gmail.com**
 
