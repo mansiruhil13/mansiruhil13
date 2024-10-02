@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Mansi Ruhil</h1>
-<h3 align="center">A passionate problem solver with good foundation in C,C++ and python. I am currently pursuing CSE from Banasthali Vidyapeeth (2023-27).</h3>
+<h3 align="center">Currently pursuing CSE from Banasthali Vidyapeeth (2023-27). With good foundation in C, python, HTML, CSS and JavaScript.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 🔭 I’m currently working on **Bobble AI - Ambulance Monitoring System**
