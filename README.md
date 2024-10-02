@@ -3,8 +3,6 @@
 <h3 align="center">Currently pursuing CSE from Banasthali Vidyapeeth (2023-27). With good foundation in C, python, HTML, CSS and JavaScript.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🔭 I’m currently working on **Bobble AI - Ambulance Monitoring System**
-
 - 🌱 I’m currently learning **DSA in C++**
 
 - 📫 How to reach me **mansiruhil99@gmail.com**
