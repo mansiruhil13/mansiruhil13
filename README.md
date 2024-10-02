@@ -3,11 +3,11 @@
 <h3 align="center">Currently pursuing CSE from Banasthali Vidyapeeth (2023-27). With good foundation in C, python, HTML, CSS and JavaScript.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🌱 I’m currently learning **DSA in C++**
+-  I’m currently learning **DSA in C++**
 
-- 📫 How to reach me **mansiruhil99@gmail.com**
+-  How to reach me **mansiruhil99@gmail.com**
 
-- ⚡ Fun fact **The most common hackathon horror story: You finally crack the code, hit “deploy,” and then... the Wi-Fi goes down, leaving you in an existential crisis.**
+-  Fun fact **The most common hackathon horror story: You finally crack the code, hit “deploy,” and then... the Wi-Fi goes down, leaving you in an existential crisis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
