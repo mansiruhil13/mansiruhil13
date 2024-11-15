@@ -7,7 +7,9 @@
 -  Tech Stacks:
   
    **Languages: Python, C++, JavaScript**
+   
    **Frameworks & Tools: React, Firebase**
+   
    **Cloud: Google Cloud**
 
 -  Currently Learning **DSA**
