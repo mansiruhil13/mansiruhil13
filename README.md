@@ -5,8 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansiruhil13&label=Profile%20views&color=0e75b6&style=flat" alt="mansiruhil13" /> </p>
 
--  I’m currently learning **DSA in C++**
+-  Tech Stacks:  **Languages: Python, C++, JavaScript** /n **Frameworks & Tools: React, Firebase** /n **Cloud: Google Cloud**
 
+-  Currently Learning **DSA**
+  
 -  How to reach me **mansiruhil99@gmail.com**
 
 -  Fun fact **The most common hackathon horror story: You finally crack the code, hit “deploy,” and then... the Wi-Fi goes down, leaving you in an existential crisis.**
