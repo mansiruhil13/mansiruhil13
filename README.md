@@ -5,7 +5,7 @@
 
 -  Tech Stacks:
   
-   **Languages: Python, C++, JavaScript**
+   **Languages & tools: Python, C++, JavaScript, MySQL, HTML, CSS, Oracle, Postman**
    
    **Frameworks & Tools: React, Firebase**
    
