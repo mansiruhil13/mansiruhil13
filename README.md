@@ -5,9 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansiruhil13&label=Profile%20views&color=0e75b6&style=flat" alt="mansiruhil13" /> </p>
 
 -  Tech Stacks:
--   **Languages: Python, C++, JavaScript**
--   **Frameworks & Tools: React, Firebase**
--   **Cloud: Google Cloud**
+  
+   **Languages: Python, C++, JavaScript**
+   **Frameworks & Tools: React, Firebase**
+   **Cloud: Google Cloud**
 
 -  Currently Learning **DSA**
   
