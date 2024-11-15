@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansiruhil13&show_icons=true&locale=en" alt="mansiruhil13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansiruhil13&" alt="mansiruhil13" /></p>
+
+[![Holopin Badge](https://holopin.me/mansiruhil13)](https://www.holopin.io/@mansiruhil13#)
