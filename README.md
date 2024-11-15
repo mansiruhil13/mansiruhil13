@@ -21,4 +21,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mansiruhil13&" alt="mansiruhil13" /></p>
 
+![GSSoC Badge](https://i.imgur.com/explorerbadge.png)
+
 [![Holopin Badge](https://holopin.me/mansiruhil13)](https://www.holopin.io/@mansiruhil13#)
