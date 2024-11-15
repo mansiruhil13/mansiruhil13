@@ -15,8 +15,6 @@
   
 -  How to reach me **mansiruhil99@gmail.com**
 
--  Fun fact **The most common hackathon horror story: You finally crack the code, hit “deploy,” and then... the Wi-Fi goes down, leaving you in an existential crisis.**
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansiruhil13&show_icons=true&locale=en&layout=compact" alt="mansiruhil13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansiruhil13&show_icons=true&locale=en" alt="mansiruhil13" /></p>
